@@ -6,4 +6,4 @@ python:
 	- '2.7'
 
 script:
-	pytohn example.py
+	python example.py
